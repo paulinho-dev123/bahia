@@ -1,0 +1,29 @@
+body
+{
+    background: url(Bahia.png);
+    background-repeat: no-reapet;
+    background-size: cover;
+    background-attachment: fixed ;
+        
+
+}
+td
+{
+     color: #fff; 
+     background-color: #000000;
+     font-size: 25px; 
+     font-family: 'arial'; 
+     text-align: justify;
+     padding:20px;
+}
+h1
+{
+     color: #fff; 
+     background-color: #000000;
+     font-size: 25px; 
+     font-family: 'arial'; 
+     text-align: center;
+     width: 40%;
+     margin: 60px auto ;
+     padding: 10px ;
+}
